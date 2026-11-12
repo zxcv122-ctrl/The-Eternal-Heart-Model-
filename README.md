@@ -12,6 +12,7 @@ This repository contains the official Python implementation of the **One-Two-Thr
 ## 📂 Repository Structure
 *   `five_elements_self_check.py`: A self-check tool based on the Five Elements scoring and evolution simulation.
 *   **[USAGE.md](USAGE.md)**: Detailed instruction manual (in Chinese) for the Five Elements self-check tool.
+*   `Strategic_Sandbox_Engine.py`: A goal-oriented reverse-trace strategic solver (V7.6.3).
 *   *(More core algorithms from the book will be uploaded soon...)*
 
 ## ⚙️ How to Run
