@@ -15,11 +15,11 @@ This repository contains the official Python implementation of the **One-Two-Thr
 
 ## 📂 Repository Structure
 *   `five_elements_self_check.py`: A self-check tool based on the Five Elements scoring and evolution simulation.
-*   `USAGE.md`: Detailed instruction manual (in Chinese) for the Five Elements self-check tool.
+*   **[USAGE.md](USAGE.md)**: Detailed instruction manual (in Chinese) for the Five Elements self-check tool.
 *   `Strategic_Sandbox_Engine.py`: A goal-oriented reverse-trace strategic solver (V7.6.3).
-*   `USAGE_SANDBOX.md`: 战略沙盘反推系统使用说明书 (中文版 / English Version).
+*   **[USAGE_SANDBOX.md](USAGE_SANDBOX.md)**: 战略沙盘反推系统使用说明书 (中文版 / English Version).
 *   `recursive_evolution_engine_v21.py`: A philosophical simulation of the One-Two-Three framework (Recursive Taiji Evolution).
-*   `USAGE_EVOLUTION.md`: 递归演化引擎白皮书与商业/学术应用说明 (Whitepaper).
+*   **[USAGE_EVOLUTION.md](USAGE_EVOLUTION.md)**: 递归演化引擎白皮书与商业/学术应用说明 (Whitepaper).
 
 ## ⚙️ How to Run
 1. Ensure you have Python 3 installed.
@@ -45,4 +45,3 @@ For commercial licensing or collaborations, please contact:
 
 ---
 *Bridging Eastern Philosophy, Mathematics & Code.*
-   
