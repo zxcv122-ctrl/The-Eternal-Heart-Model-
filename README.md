@@ -19,6 +19,7 @@ This repository contains the official Python implementation of the **One-Two-Thr
 *   `Strategic_Sandbox_Engine.py`: A goal-oriented reverse-trace strategic solver (V7.6.3).
 *   `USAGE_SANDBOX.md`: 战略沙盘反推系统使用说明书 (中文版 / English Version).
 *   `recursive_evolution_engine_v21.py`: A philosophical simulation of the One-Two-Three framework (Recursive Taiji Evolution).
+*   `USAGE_EVOLUTION.md`: 递归演化引擎白皮书与商业/学术应用说明 (Whitepaper).
 
 ## ⚙️ How to Run
 1. Ensure you have Python 3 installed.
