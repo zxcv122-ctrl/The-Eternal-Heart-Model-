@@ -11,11 +11,11 @@
 * **`USAGE.md`**：自检工具的详细说明手册（中文版）。
 * *(本书中的更多核心算法即将推出……)*
 
-## ⚙️ 如何跑步
+## ⚙️ 如何运行
 
 1. 请确保您已安装 Python 3。
 2. **点击下载仓库**（或复制链接到浏览器打开）：
-   https://github.com/zxcv122-ctrl/eternal-heart
+   https://github.com/zxcv122-ctrl/The-Eternal-Heart-Model-
 3. 直接在终端中运行脚本：
    `python five_elements_self_check.py`
 
