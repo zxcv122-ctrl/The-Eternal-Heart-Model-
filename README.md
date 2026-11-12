@@ -2,9 +2,9 @@
 
 **Author:** Nachangyong
 
-## 🎁 Limited Time Offer
-The book is currently available for **FREE** on Amazon Kindle! Click the link below to get the complete philosophical and mathematical blueprint:
-👉 **[Download The Eternal Heart on Amazon](https://amazon.com/author/nachangyong)**
+## 📚 Get the Book
+The complete philosophical and mathematical framework is documented in my book, *The Eternal Heart*. You can read or purchase it on Amazon Kindle:
+👉 **[Get The Eternal Heart on Amazon](https://amazon.com/author/nachangyong)**
 
 ## 📖 About the Project
 This repository contains the official Python implementation of the **One-Two-Three Model of Evolution**. It is an exploratory framework that bridges Eastern philosophy (Taiji, Yin-Yang, Five Elements) with modern computational modeling and system dynamics.
