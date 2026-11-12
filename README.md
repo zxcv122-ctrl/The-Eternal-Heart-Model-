@@ -1,16 +1,23 @@
+# 📖 永恒之心：进化的一二三模型 👋
+### 官方 Python 实现 | 一个连接东方哲学与计算建模的探索性框架
+
+> 🎁 **福利时间**：本书在亚马逊 Kindle 开放限时免费下载！点击下方链接，免费获取该模型的完整哲学和数学蓝图！
+
+---
+
 ## 📂 仓库结构
 
-* `five_elements_self_check.py`：一个基于五行评分和演化模拟的强大自检工具。
-* `USAGE.md`：自检工具的详细说明手册（中文版）。
+* **`five_elements_self_check.py`**：一个基于五行评分和演化模拟的强大自检工具。
+* **`USAGE.md`**：自检工具的详细说明手册（中文版）。
 * *(本书中的更多核心算法即将推出……)*
 
 ## ⚙️ 如何跑步
 
 1. 请确保您已安装 Python 3。
-2. 点击下方链接直接下载本仓库：
-https://github.com/zxcv122-ctrl/永恒之心模型
+2. **点击下载仓库**（或复制链接到浏览器打开）：
+   https://github.com/zxcv122-ctrl/eternal-heart
 3. 直接在终端中运行脚本：
-`python five_elements_self_check.py`
+   `python five_elements_self_check.py`
 
 ## ⚠️ 免责声明及使用条款
 
@@ -22,4 +29,4 @@ https://github.com/zxcv122-ctrl/永恒之心模型
 ## 🤝 商业与学术咨询
 
 如需了解商业许可、企业集成或学术合作事宜，请联系：
-📧 邮箱：AbcnachangyongAbc@proton.me
+📧 **邮箱：** AbcnachangyongAbc@proton.me
